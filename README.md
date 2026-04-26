@@ -15,7 +15,7 @@ https://www.quantamagazine.org/a-powerful-new-qr-code-untangles-maths-knottiest-
 git clone https://github.com/dismad/zcash-knot-qr.git
 cd zcash-knot-qr
 cargo build -r
-./target/release/zcash-knot-qr "your ua here"
+./target/release/zcash-knot-qr "your ua here" --raw
 ```
 
 # Background
